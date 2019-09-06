@@ -1,0 +1,8 @@
+{
+    "name": "Stride/Settings",
+    "description": "stride community standard all settings",
+    "autoload" : {
+        "psr-4": { "Stride\\Settings\\" : "" }
+    },
+    "minimum-stability":"dev"
+}
