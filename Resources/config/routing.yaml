@@ -1,0 +1,5 @@
+stride_settings:
+  path: /
+  controller: '@SettingsBundle\Controller\DefaultController::index'
+  methods: GET|POST|PUT
+  
